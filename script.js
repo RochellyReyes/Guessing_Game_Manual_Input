@@ -1,5 +1,5 @@
 'use strict';
-//defining the handler number outside so that it remainds the same and does not change every click
+//defining the handler number outside so that it remains the same and does not change every click
 let secretNumber = Math.trunc(Math.random() * 20) + 1;
 let score = 20;
 let highscore = 0;
